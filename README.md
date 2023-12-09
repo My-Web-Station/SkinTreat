@@ -1,6 +1,4 @@
-# AquaBuddy
+# SkinTreat
 
-An admin panel cum landing page idea.
 
-![image](https://github.com/MainakRepositor/AquaBuddy/assets/64016811/1af34546-a54a-4ca6-bcd9-aa64344c5d75)
-
+![image](https://github.com/My-Web-Station/Dermatrix-LP/assets/64016811/e08a354d-bb69-4f1c-9b1e-bee6e8a601e7)
